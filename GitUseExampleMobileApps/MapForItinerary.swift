@@ -9,5 +9,7 @@
 import UIKit
 
 class MapForItinerary: NSObject {
-    
+    func sayHello() {
+        print("Hello from MapForItinerary")
+    }
 }
